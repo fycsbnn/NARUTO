@@ -1,5 +1,11 @@
 #include<stdio.h>
 void main()
 {
-printf("dnfgdjksng");
+printf("NARUTO");
+}
+{
+printf("AHMAD FARAZ");
+}
+{
+printf("KHIZAR");
 }
